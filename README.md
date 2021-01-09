@@ -2,7 +2,7 @@
 
 这个人很菜👦
 
-![ee](https://assets.pinterest.com/ext/embed.html?id=497788565045397859)
+![ee](https://github.com/c987617162/c987617162/blob/main/6fe16492d54dfb97b36216c4c39d5bea.gif)
 <!--
 **c987617162/c987617162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
