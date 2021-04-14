@@ -2,7 +2,7 @@
 
 这个人很菜👦
 
-<img src="https://github.com/c987617162/c987617162/blob/main/6fe16492d54dfb97b36216c4c39d5bea.gif" width="400px" height="400px" alt="ee"/>
+<img src="https://github.com/c987617162/c987617162/blob/main/6fe16492d54dfb97b36216c4c39d5bea.gif" width="auto" height="400px" alt="ee"/>
 
 <!--
 **c987617162/c987617162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
