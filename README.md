@@ -2,6 +2,8 @@
 
 这个人很菜👦
 
+This guy is a rookie 👦
+
 <img src="https://github.com/c987617162/c987617162/blob/main/6fe16492d54dfb97b36216c4c39d5bea.gif" width="auto" height="400px" alt="ee"/>
 
 <!--
